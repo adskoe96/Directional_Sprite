@@ -3,7 +3,7 @@ Directional sprite for Unity (using animator and blend tree method)
 ![alt text](https://github.com/adskoe96/Directional_Sprite/blob/master/Result.gif)
 
 ## How to use
-1. download the script "DirectionalSprite.cs" and put it somewhere in your player (it doesn't matter where, the script doesn't use local object transform).
+1. Download the script "DirectionalSprite.cs" and put it somewhere in your player (it doesn't matter where, the script doesn't use local object transform).
 2. Download the script "SpriteBillboard.cs" and add it to your player (where his SpriteRenderer is located)
 3. Specify to the script "DirectionalSprite" parent, which will be rotated, basically it is the main parent of the player, where the CharacterController or Rigidbody is located, also specify to it an animator, which will use variables, for example x and z.
 4. Enjoy the result.
