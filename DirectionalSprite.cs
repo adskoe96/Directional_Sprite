@@ -1,6 +1,6 @@
 using UnityEngine;
 
-internal class DirectionalSpriteBillboard : MonoBehaviour
+internal class DirectionalSprite : MonoBehaviour
 {
     [SerializeField] private Animator animator;
     [SerializeField] private Transform parent;
