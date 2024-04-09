@@ -1,5 +1,6 @@
 # Directional_Sprite
-Directional sprite for Unity (using animator blend tree method)
+Directional sprite for Unity (using animator and blend tree method)
+![alt text](https://github.com/adskoe96/Directional_Sprite/blob/master/Result.gif)
 
 ## How to use
 1. download the script "DirectionalSprite.cs" and put it somewhere in your player (it doesn't matter where, the script doesn't use local object transform).
