@@ -1,4 +1,4 @@
-# Directional_Sprite
+# Directional Sprite
 Directional sprite for Unity (using animator and blend tree method)
 ![alt text](https://github.com/adskoe96/Directional_Sprite/blob/master/Result.gif)
 
