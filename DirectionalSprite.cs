@@ -6,7 +6,7 @@ internal class DirectionalSprite : MonoBehaviour
     [SerializeField] private Transform parent;
     private static Vector3 cameraForward, parentForward;
 
-    private void Update()
+    private void LateUpdate()
     {
         try { cameraForward = Camera.main.transform.forward; }
         catch { return; }
